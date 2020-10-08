@@ -1,0 +1,21 @@
+{
+  "layout":[
+    ["alt.", 20, false, 0, 0],
+    ["alloy", 48, true, 0, 0],
+    ["", 20, false, 0, 0],
+    ["dia", 4, false, 1, 0],
+    ["", 90, true, 0, 0],
+    ["lengde", 4, false, 2, 0],
+    ["", 60, true, 0, 0],
+    ["vekt", 6, false, 2, 0],
+    ["", 70, true, 0, 0],
+    ["", 6, false, 0, 1],
+    ["", 54, true, 0, 1],
+    ["belastning", 6, false, 2, 1],
+    ["", 86, true, 0, 1],
+    ["klaring", 6, false, 1, 0],
+    ["", 14, true, 0, 0]
+  ]
+  
+  
+}
